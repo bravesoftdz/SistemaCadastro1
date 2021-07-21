@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/20 14:57:42.000.883,=C:\Users\lucas.mira\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 14:57:59.000.778,C:\Delphi\Alura\Aula3\Unit1.pas=C:\Users\lucas.mira\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 14:57:59.000.778,C:\Delphi\Alura\Aula3\Unit1.dfm=C:\Users\lucas.mira\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/20 14:58:01.000.621,C:\Delphi\Alura\Aula3\Project1.dproj=C:\Users\lucas.mira\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/21 09:33:09.000.451,=C:\Delphi\Alura\Aula3\Unit2.pas</Transaction>
+    <Transaction>2021/07/21 09:47:44.000.454,=C:\Delphi\Alura\Aula3\Unit3.pas</Transaction>
+    <Transaction>2021/07/21 10:36:16.972,C:\Delphi\Alura\Aula3\Unit3.pas=</Transaction>
+    <Transaction>2021/07/21 10:36:30.742,=C:\Delphi\Alura\Aula3\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>
